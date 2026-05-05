@@ -60,6 +60,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaykumar9022&theme=tokyonight" height="180" />
+  <img src="https://streak-stats.demolab.com?user=jaykumar9022&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaykumar9022&show_icons=true&theme=tokyonight" height="180" />
 </div>
 
