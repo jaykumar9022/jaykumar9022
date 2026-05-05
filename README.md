@@ -1,3 +1,9 @@
+<div id="header" align="right">
+  <img src="https://komarev.com/ghpvc/?username=repo-sumit&style=for-the-badge&color=orange" alt=""/>
+</div> 
+
+![header-banner.png](Github Banner.png)
+
 <h1 align="center">Hi 👋, I'm Jay Kumar</h1>
 <h3 align="center">⚡ Backend & AI Developer | Building Intelligent Systems</h3>
 
