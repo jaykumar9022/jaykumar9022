@@ -66,10 +66,10 @@
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://jaykumar9022.github.io/my-portfol/#projects">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:jay@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
