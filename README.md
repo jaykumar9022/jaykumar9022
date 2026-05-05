@@ -13,6 +13,14 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## 🧠 About Me
 - 🎓 BS in Data Science & Applications — **IIT Madras**
 - ⚙️ Building scalable **Backend + AI Systems**
