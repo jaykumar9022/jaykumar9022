@@ -4,7 +4,7 @@
 
 ![GitHub Banner](https://raw.githubusercontent.com/jaykumar9022/jaykumar9022/main/Github%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Jay Kumar</h1>
+
 <h3 align="center">⚡ Backend & AI Developer | Building Intelligent Systems</h3>
 
 <p align="center">
