@@ -11,6 +11,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&lines=AI+Developer;FastAPI+Backend+Engineer;Python+Automation+Expert;Building+Real+World+Projects" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaykumar9022&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/jaykumar9022?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
+  <img src="https://img.shields.io/github/stars/jaykumar9022?label=Stars&style=for-the-badge&color=0e75b6" alt="stars" />
+</p>
+
 ---
 
 <picture>
