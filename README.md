@@ -59,7 +59,7 @@
 ### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaykumar9022&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaykumar9022&theme=tokyonight" height="180" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaykumar9022&theme=tokyonight&utcOffset=5.5" height="180" />
 </div>
 
