@@ -8,7 +8,7 @@
 <h3 align="center">⚡ Backend & AI Developer | Building Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=EAEAEA&center=true&vCenter=true&lines=AI+Developer;FastAPI+Backend+Engineer;Python+Automation+Expert;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=D1D5DB&center=true&vCenter=true&lines=AI+Developer;FastAPI+Backend+Engineer;Python+Automation+Expert;Building+Real+World+Projects" />
 </p>
 
 ---
