@@ -44,6 +44,7 @@
 
 ## 📊 GitHub Analytics
 
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaykumar9022&theme=tokyonight&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" height="180" />
 </div>
 
