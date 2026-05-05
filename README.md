@@ -37,7 +37,7 @@
 
 ## ⚙️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,flask,postgres,docker,git" />
+<img src="https://skillicons.dev/icons?i=python,html,java,fastapi,flask,postgres,docker,git,github" />
 </p>
 
 ---
