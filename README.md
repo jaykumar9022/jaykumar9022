@@ -44,14 +44,7 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaykumar9022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=ffffff&include_all_commits=true&count_private=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaykumar9022&theme=tokyonight&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykumar9022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0E75B6&text_color=ffffff&langs_count=8" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaykumar9022&theme=tokyonight" height="180" />
 </div>
 
 
