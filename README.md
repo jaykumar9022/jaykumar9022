@@ -91,6 +91,3 @@ Made with ❤️ by Jay Kumar
 alt="footer"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" alt="footer" />
-</div>
