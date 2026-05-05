@@ -66,7 +66,7 @@
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://jaykumar9022.github.io/my-portfol/#projects">
-<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio"
+<img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" height="40" alt="Portfolio"
 style="margin-right: 15px; transition: transform 0.2s;"
 onmouseover="this.style.transform='scale(1.2)'"
 onmouseout="this.style.transform='scale(1)'" />
