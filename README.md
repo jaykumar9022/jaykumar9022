@@ -7,10 +7,10 @@
 ![GitHub Banner](https://raw.githubusercontent.com/jaykumar9022/jaykumar9022/main/Github%20Banner.png)
 
 
-<h3 align="center">⚡ Backend & AI Developer | Building Intelligent Systems</h3>
+<h3 align="center">⚡ Python Developer | Backend & AI Developer | Building Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&lines=AI+Developer;FastAPI+Backend+Engineer;Python+Automation+Expert;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&lines=Python+Developer;FastAPI+&+AI+Projects;Backend+Learning+Journey;Building+Real+World+Projects" />
 </p>
 
 ---
